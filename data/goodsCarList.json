@@ -1,0 +1,650 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": [
+      {
+        "id": 103542,
+        "skuCode": null,
+        "skuName": "iQOO 3 5G版 8GB+256GB 流光银",
+        "relaSpuId": 10001922,
+        "promotion": null,
+        "brief": "高通骁龙865，双模5G；55W超快闪充；支持LPDDR5+UFS 3.1+Wi-Fi6。",
+        "salePrice": 3298.000,
+        "marketPrice": 3698.000,
+        "points": null,
+        "images": [
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582191537_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582191537_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582191537_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582191537_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582192265_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582192265_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582192265_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582192265_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582191517_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582191517_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582191517_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582191517_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1589423902445_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1589423902445_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1589423902445_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1589423902445_1080x1080.png"
+          }
+        ],
+        "video": null,
+        "isDefault": null,
+        "updown": null,
+        "specItems": null,
+        "disabled": null,
+        "corner": null,
+        "recommendSkuUrl": null,
+        "productUrl": null,
+        "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582191537_250x250.png",
+        "traceId": "manual",
+        "reqId": "",
+        "abId": "manual",
+        "recallSource": "1",
+        "testId": null,
+        "testPlanId": null
+      },
+      {
+        "id": 102937,
+        "skuCode": null,
+        "skuName": "vivo X30 5G版 8GB+256GB 秘银",
+        "relaSpuId": 10001812,
+        "promotion": null,
+        "brief": "双模5G全网通，20倍变焦，50mm专业人像镜头。",
+        "salePrice": 3298.000,
+        "marketPrice": 3598.000,
+        "points": null,
+        "images": [
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642107291_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642107291_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642107291_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642107291_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642106983_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642106983_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642106983_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642106983_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642106771_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642106771_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642106771_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642106771_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642107382_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642107382_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642107382_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642107382_1080x1080.png"
+          }
+        ],
+        "video": null,
+        "isDefault": null,
+        "updown": null,
+        "specItems": null,
+        "disabled": null,
+        "corner": null,
+        "recommendSkuUrl": null,
+        "productUrl": null,
+        "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1578642107291_250x250.png",
+        "traceId": "manual",
+        "reqId": "",
+        "abId": "manual",
+        "recallSource": "1",
+        "testId": null,
+        "testPlanId": null
+      },
+      {
+        "id": 100380,
+        "skuCode": null,
+        "skuName": "飞智 wee 2T游戏手柄 午夜蓝",
+        "relaSpuId": 10000167,
+        "promotion": null,
+        "brief": "第五代连接技术，智连模式，内置映射免激活，六轴陀螺仪，体感精准，ZC按键，满足更多操控需求，拉伸自如，兼容各类手机",
+        "salePrice": 229.000,
+        "marketPrice": 229.000,
+        "points": null,
+        "images": [
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692968324_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692968324_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692968324_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692968324_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692974449_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692974449_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692974449_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692974449_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692980379_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692980379_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692980379_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692980379_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692985991_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692985991_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692985991_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692985991_1080x1080.png"
+          }
+        ],
+        "video": null,
+        "isDefault": null,
+        "updown": null,
+        "specItems": null,
+        "disabled": null,
+        "corner": null,
+        "recommendSkuUrl": null,
+        "productUrl": null,
+        "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1547692968324_250x250.png",
+        "traceId": "manual",
+        "reqId": "",
+        "abId": "manual",
+        "recallSource": "1",
+        "testId": null,
+        "testPlanId": null
+      },
+      {
+        "id": 102041,
+        "skuCode": null,
+        "skuName": "飞智 黄蜂2 单手手柄",
+        "relaSpuId": 10001537,
+        "promotion": null,
+        "brief": "半柄半屏 | 电竞级大摇杆 | 智连模式 直连即玩 | 舒适握感 | 双向升级侧键微动开关",
+        "salePrice": 229.000,
+        "marketPrice": 229.000,
+        "points": null,
+        "images": [
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1597117025354_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1597117025354_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1597117025354_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1597117025354_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324371848_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324371848_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324371848_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324371848_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324371887_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324371887_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324371887_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324371887_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324394341_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324394341_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324394341_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324394341_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324372289_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324372289_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324372289_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324372289_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324376552_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324376552_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324376552_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1569324376552_1080x1080.png"
+          }
+        ],
+        "video": null,
+        "isDefault": null,
+        "updown": null,
+        "specItems": null,
+        "disabled": null,
+        "corner": null,
+        "recommendSkuUrl": null,
+        "productUrl": null,
+        "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/37/10001537_1597117025354_250x250.png",
+        "traceId": "manual",
+        "reqId": "",
+        "abId": "manual",
+        "recallSource": "1",
+        "testId": null,
+        "testPlanId": null
+      },
+      {
+        "id": 102016,
+        "skuCode": null,
+        "skuName": "vivo TWS Earphone 真无线蓝牙耳机 星际蓝",
+        "relaSpuId": 10001518,
+        "promotion": null,
+        "brief": "已系统级深度适配 NEX 系列/iQOO 系列/X 系列等大多数机型",
+        "salePrice": 669.000,
+        "marketPrice": 699.000,
+        "points": null,
+        "images": [
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1588768504197_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1588768504197_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1588768504197_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1588768504197_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635377428_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635377428_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635377428_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635377428_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635377393_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635377393_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635377393_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635377393_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635372919_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635372919_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635372919_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635372919_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635372928_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635372928_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635372928_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635372928_1080x1080.png"
+          }
+        ],
+        "video": null,
+        "isDefault": null,
+        "updown": null,
+        "specItems": null,
+        "disabled": null,
+        "corner": null,
+        "recommendSkuUrl": null,
+        "productUrl": null,
+        "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1588768504197_250x250.png",
+        "traceId": "manual",
+        "reqId": "",
+        "abId": "manual",
+        "recallSource": "1",
+        "testId": null,
+        "testPlanId": null
+      },
+      {
+        "id": 4693,
+        "skuCode": null,
+        "skuName": "ROCK 桌面手机支架",
+        "relaSpuId": 10166,
+        "promotion": null,
+        "brief": "ROCK 桌面手机支架，手机平板通用，角度360°自由调整，可折叠、易收纳。",
+        "salePrice": 19.000,
+        "marketPrice": 19.000,
+        "points": null,
+        "images": [
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843156661hd_bi_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843156661hd_bi_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843156661hd_bi_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843156661hd_bi_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843160187hd_bi_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843160187hd_bi_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843160187hd_bi_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843160187hd_bi_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843163507hd_bi_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843163507hd_bi_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843163507hd_bi_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843163507hd_bi_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843168740hd_bi_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843168740hd_bi_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843168740hd_bi_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843168740hd_bi_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843172235hd_bi_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843172235hd_bi_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843172235hd_bi_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843172235hd_bi_1080x1080.png"
+          }
+        ],
+        "video": null,
+        "isDefault": null,
+        "updown": null,
+        "specItems": null,
+        "disabled": null,
+        "corner": null,
+        "recommendSkuUrl": null,
+        "productUrl": null,
+        "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/93/4693_1534843156661hd_bi_250x250.png",
+        "traceId": "manual",
+        "reqId": "",
+        "abId": "manual",
+        "recallSource": "1",
+        "testId": null,
+        "testPlanId": null
+      },
+      {
+        "id": 100609,
+        "skuCode": null,
+        "skuName": "闪迪至尊版存储卡 64G",
+        "relaSpuId": 10000477,
+        "promotion": null,
+        "brief": "传输速度100MB/秒，更快传输精彩内容",
+        "salePrice": 79.000,
+        "marketPrice": 99.000,
+        "points": null,
+        "images": [
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188901651_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188901651_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188901651_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188901651_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188906711_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188906711_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188906711_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188906711_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188913631_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188913631_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188913631_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188913631_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188918468_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188918468_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188918468_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188918468_1080x1080.png"
+          }
+        ],
+        "video": null,
+        "isDefault": null,
+        "updown": null,
+        "specItems": null,
+        "disabled": null,
+        "corner": null,
+        "recommendSkuUrl": null,
+        "productUrl": null,
+        "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10413_1545188901651_250x250.png",
+        "traceId": "manual",
+        "reqId": "",
+        "abId": "manual",
+        "recallSource": "1",
+        "testId": null,
+        "testPlanId": null
+      },
+      {
+        "id": 100294,
+        "skuCode": null,
+        "skuName": "蔚乐 棒棒糖音箱 红色",
+        "relaSpuId": 10000254,
+        "promotion": null,
+        "brief": "手机直插音响，即插即用；5倍音量放大，不损音质；精致小巧，携带方便。",
+        "salePrice": 49.000,
+        "marketPrice": 49.000,
+        "points": null,
+        "images": [
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584902016_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584902016_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584902016_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584902016_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584905433_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584905433_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584905433_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584905433_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584909091_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584909091_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584909091_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584909091_1080x1080.png"
+          }
+        ],
+        "video": null,
+        "isDefault": null,
+        "updown": null,
+        "specItems": null,
+        "disabled": null,
+        "corner": null,
+        "recommendSkuUrl": null,
+        "productUrl": null,
+        "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/54/10000254_1546584902016_250x250.png",
+        "traceId": "manual",
+        "reqId": "",
+        "abId": "manual",
+        "recallSource": "1",
+        "testId": null,
+        "testPlanId": null
+      },
+      {
+        "id": 102703,
+        "skuCode": null,
+        "skuName": "vivo 2A Type-C 手游数据线 红黑",
+        "relaSpuId": 10001831,
+        "promotion": null,
+        "brief": "官方品质｜手游专属设计｜支持快速充电｜1.2米防缠绕扁线（注：最大支持2A电流）",
+        "salePrice": 59.000,
+        "marketPrice": 59.000,
+        "points": null,
+        "images": [
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144719_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144719_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144719_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144719_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144794_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144794_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144794_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144794_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144725_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144725_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144725_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144725_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620148179_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620148179_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620148179_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620148179_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144777_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144777_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144777_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144777_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620148824_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620148824_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620148824_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620148824_1080x1080.png"
+          }
+        ],
+        "video": null,
+        "isDefault": null,
+        "updown": null,
+        "specItems": null,
+        "disabled": null,
+        "corner": null,
+        "recommendSkuUrl": null,
+        "productUrl": null,
+        "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/31/10001831_1575620144719_250x250.png",
+        "traceId": "manual",
+        "reqId": "",
+        "abId": "manual",
+        "recallSource": "1",
+        "testId": null,
+        "testPlanId": null
+      },
+      {
+        "id": 102046,
+        "skuCode": null,
+        "skuName": "乐心手环5S",
+        "relaSpuId": 10001543,
+        "promotion": null,
+        "brief": "24h实时心率检测 | 高清彩屏 | 15项锻炼模式 | 科学睡眠记录 | 科学有氧训练计划 | 健康日报",
+        "salePrice": 169.000,
+        "marketPrice": 169.000,
+        "points": null,
+        "images": [
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1597116933519_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1597116933519_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1597116933519_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1597116933519_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758666_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758666_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758666_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758666_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758442_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758442_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758442_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758442_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758487_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758487_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758487_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758487_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501762455_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501762455_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501762455_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501762455_1080x1080.png"
+          }
+        ],
+        "video": null,
+        "isDefault": null,
+        "updown": null,
+        "specItems": null,
+        "disabled": null,
+        "corner": null,
+        "recommendSkuUrl": null,
+        "productUrl": null,
+        "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1597116933519_250x250.png",
+        "traceId": "manual",
+        "reqId": "",
+        "abId": "manual",
+        "recallSource": "1",
+        "testId": null,
+        "testPlanId": null
+      },
+      {
+        "id": 102664,
+        "skuCode": null,
+        "skuName": "飞智 蜂套2 手游指套 黑蓝",
+        "relaSpuId": 10001807,
+        "promotion": null,
+        "brief": "（2个装）薄而灵敏｜清爽透气 拯救汗手｜适配不同指围｜消灭接缝 触感升级｜持久穿戴不抽丝",
+        "salePrice": 19.000,
+        "marketPrice": 19.000,
+        "points": null,
+        "images": [
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/07/10001807_1575275670400_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/07/10001807_1575275670400_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/07/10001807_1575275670400_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/07/10001807_1575275670400_1080x1080.png"
+          },
+          {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/07/10001807_1575275671386_100x100.png",
+            "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/07/10001807_1575275671386_250x250.png",
+            "middlePic": null,
+            "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/07/10001807_1575275671386_750x750.png",
+            "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/07/10001807_1575275671386_1080x1080.png"
+          }
+        ],
+        "video": null,
+        "isDefault": null,
+        "updown": null,
+        "specItems": null,
+        "disabled": null,
+        "corner": null,
+        "recommendSkuUrl": null,
+        "productUrl": null,
+        "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/07/10001807_1575275670400_250x250.png",
+        "traceId": "manual",
+        "reqId": "",
+        "abId": "manual",
+        "recallSource": "1",
+        "testId": null,
+        "testPlanId": null
+      }
+    ]
+  }

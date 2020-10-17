@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+        <title>购物车列表</title>
+        <meta name="description" content="小米商城直营小米公司旗下所有产品，包括小米手机系列小米CC9、小米9、小米MIX 3，Redmi 红米系列Redmi K20 Pro、Redmi Note 8，小米电视、红米电视、笔记本、米家智能家居等，同时提供小米客户服务及售后支持。" />
+        <meta name="keywords" content="小米,小米9,小米cc9,Redmi K20,Redmi Note 8,小米MIX3,小米商城" />
+        <link rel="shortcut icon" href="//s01.mifile.cn/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="css/goodsCar.css"/>
+        <link rel="stylesheet" href="./font/iconfont.css">
+        <script src = 'js/require.js' defer async = 'true' data-main = 'js/cart.js'></script>
+
+    </head>
+    <body>
+        <div class="head">
+            <div class="head-shang">
+                <div class="headShang-con">
+                    <ul class="head-shang-ulL">
+                        <li>品牌</li>
+                        <li>Funtouch  OS</li>
+                        <li>体验店</li>
+                        <li>企业服务</li>
+                        <li>社区</li>
+                    </ul>
+                    <ul >
+                    <ul class="head-shang-ulR">
+                        <li>下载</li>
+                        <li>购物车</li>
+                        <li>个人中心</li>
+                    </ul>
+                </div>
+            </div>
+            
+        </div>
+        <div class="logo">
+            <div class="logo-show">
+                <span>VIVO</span>
+                <ul style="">
+                    <!-- <li>NEX系列</li>
+                    <li>X系列</li>
+                    <li>Y系列</li>
+                    <li>Z系列</li>
+                    <li>S系列</li>
+                    <li>U系列</li>
+                    <li>IQOO手机</li>
+                    <li>智能硬件</li> -->
+                </ul>
+                <input type="text" placeholder="搜索">
+            </div>
+              <div class="logo-hidden" style="display: none;">
+               <!-- <div class="item clear" style="display: block;">
+                    <div class="itemBox">
+                        <img src="https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200925/202f17a330a7896a57e4a5db32fbf88c.png" alt="">
+                        <p>Nex 3S</p>
+                    </div>
+                    <div class="itemBox">
+                        <img src="https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200925/202f17a330a7896a57e4a5db32fbf88c.png" alt="">
+                        <p>Nex 3S</p>
+                    </div>
+                    <div class="itemBox">
+                        <img src="https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200925/202f17a330a7896a57e4a5db32fbf88c.png" alt="">
+                        <p>Nex 3S</p>
+                    </div>
+                    <div class="itemBox">
+                        <img src="https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200925/202f17a330a7896a57e4a5db32fbf88c.png" alt="">
+                        <p>Nex 3S</p>
+                    </div>
+                    <div class="itemBox">
+                        <img src="https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200925/202f17a330a7896a57e4a5db32fbf88c.png" alt="">
+                        <p>Nex 3S</p>
+                    </div>
+                </div> -->
+                
+            </div>
+           
+        </div>
+        <div class="body">
+            <div class="title">
+                <span></span>
+                <span><h2>我的购物车</h2></span>
+                <span><a href="list.html" style="color: black;text-decoration: none;">继续购物</a> </span>
+            </div>
+        
+            <table class="body-table">
+               <thead>
+                    <tr>
+                        <!-- <th><input type="checkbox" class="icon-checkbox-selected ">全选</th> -->
+                       <th> <div class="col col-check "><i class="iconfont icon-checkbox" id="J_selectAll">√</i>全选</div></th>
+                        <th>商品名称</th>      
+                        <th>原价</th>   
+                        <th>数量</th>    
+                        <th>优惠</th>               
+                        <th>售价</th>    
+                        <th>小计</th>    
+                        <th>操作</th>     
+                    </tr>
+                </thead>
+                    <tbody>
+                     <!--<tr>
+                        <td><input type="checkbox"></td>
+                        <td class="name">
+                            <div class="img"><img src="./images/car1.png" alt=""></div>
+                            <p>【V抢购】 NEX 3 5G版 8GB+256GB 
+                                颜色：深空流光</p>
+                        </td>
+                        <td>4998.00</td>
+                       
+                        <td class="num">
+                           
+                                <div>-</div> 
+                                <div>1</div>
+                                <div>+</div> 
+                           
+                            
+                        </td> 
+                        <td>-700.00</td>
+                        <td>4298</td>
+                        <td>4298.00</td>
+                        <td class="del">删除</td>
+                    </tr> -->
+                    <!--<tr>
+                         <td><input type="checkbox"></td>
+                        <td class="name">
+                            <div class="img"><img src="./images/car1.png" alt=""></div>
+                            <p>【V抢购】 NEX 3 5G版 8GB+256GB 
+                                颜色：深空流光</p>
+                        </td>
+                        <td>4998.00</td>
+                       
+                        <td class="num">
+                           
+                                <div>-</div> 
+                                <div>1</div>
+                                <div>+</div> 
+                           
+                            
+                        </td> 
+                        <td>-700.00</td>
+                        <td>4298</td>
+                        <td>4298.00</td>
+                        <td class="del">删除</td>
+                    </tr> -->
+                </tbody>
+                <tfoot>
+                    <tr>  
+                       <td colspan="1">一共<span id="J_cartTotalNum">0</span>件，已选择<span id="J_selTotalNum">0</span>件</td>
+                        <td class="total" colspan="4">合计<span id="J_cartTotalPrice">0.00</span></td>
+                        <td colspan="3">
+                            <div>去结算</div>
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+
+            <div class="like">
+                <h3>猜你喜欢</h3>
+                <ul class="like-ul clear">
+                    <!-- <li>
+                        <img src="./images/like1.png" alt="">
+                        <p>iQOO 3 5G版 8GB+256GB 流光银 </p>
+                        <p>高通骁龙865，双模5G；55W超快闪充；支持LPDDR5+UFS 3.1+Wi-Fi6。</p>
+                         <p class="price">￥3698</p>
+                    </li>
+                    <li>
+                        <img src="./images/like1.png" alt="">
+                        <p>iQOO 3 5G版 8GB+256GB 流光银 </p>
+                        <p>高通骁龙865，双模5G；55W超快闪充；支持LPDDR5+UFS 3.1+Wi-Fi6。</p>
+                         <p class="price">￥3698</p>
+                    </li>
+                    <li>
+                        <img src="./images/like1.png" alt="">
+                        <p>iQOO 3 5G版 8GB+256GB 流光银 </p>
+                        <p>高通骁龙865，双模5G；55W超快闪充；支持LPDDR5+UFS 3.1+Wi-Fi6。</p>
+                         <p class="price">￥3698</p>
+                    </li>
+                    <li>
+                        <img src="./images/like1.png" alt="">
+                        <p>iQOO 3 5G版 8GB+256GB 流光银 </p>
+                        <p>高通骁龙865，双模5G；55W超快闪充；支持LPDDR5+UFS 3.1+Wi-Fi6。</p>
+                         <p class="price">￥3698</p>
+                    </li>
+                    <li>
+                        <img src="./images/like1.png" alt="">
+                        <p>iQOO 3 5G版 8GB+256GB 流光银 </p>
+                        <p>高通骁龙865，双模5G；55W超快闪充；支持LPDDR5+UFS 3.1+Wi-Fi6。</p>
+                         <p class="price">￥3698</p>
+                    </li>
+                    <li>
+                        <img src="./images/like1.png" alt="">
+                        <p>iQOO 3 5G版 8GB+256GB 流光银 </p>
+                        <p>高通骁龙865，双模5G；55W超快闪充；支持LPDDR5+UFS 3.1+Wi-Fi6。</p>
+                         <p class="price">￥3698</p>
+                    </li>
+                    <li>
+                        <img src="./images/like1.png" alt="">
+                        <p>iQOO 3 5G版 8GB+256GB 流光银 </p>
+                        <p>高通骁龙865，双模5G；55W超快闪充；支持LPDDR5+UFS 3.1+Wi-Fi6。</p>
+                         <p class="price">￥3698</p>
+                    </li>
+                    <li>
+                        <img src="./images/like1.png" alt="">
+                        <p>iQOO 3 5G版 8GB+256GB 流光银 </p>
+                        <p>高通骁龙865，双模5G；55W超快闪充；支持LPDDR5+UFS 3.1+Wi-Fi6。</p>
+                         <p class="price">￥3698</p>
+                    </li>
+                    <li>
+                        <img src="./images/like1.png" alt="">
+                        <p>iQOO 3 5G版 8GB+256GB 流光银 </p>
+                        <p>高通骁龙865，双模5G；55W超快闪充；支持LPDDR5+UFS 3.1+Wi-Fi6。</p>
+                         <p class="price">￥3698</p>
+                    </li> -->
+                </ul>
+            </div>
+
+        </div>
+        <div class="foot">
+            <div class="foot-con">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>热门连接</th>
+                            <th>在线购买</th>
+                            <th>服务支持</th>
+                            <th>vivo社区</th>
+                            <th>关于vivo</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>x50 Pro</td>
+                            <td>官方商城</td>
+                            <td>体验店</td>
+                            <td>社区首页</td>
+                            <td>vivo简介</td>
+                        </tr>
+                        <tr>
+                            <td>NEX 3S</td>
+                            <td>选购手机</td>
+                            <td>服务首页</td>
+                            <td>摄影专区</td>
+                            <td>工作机会</td>
+                        </tr>
+                        <tr>
+                            <td>z6</td>
+                            <td>选购配件</td>
+                            <td>服务网点查询</td>
+                            <td>微博</td>
+                            <td>新闻资讯</td>
+                        </tr>
+                        <tr>
+                            <td>vivo摄影</td>
+                            <td>企业服务</td>
+                            <td>真伪查询</td>
+                            <td>贴吧</td>
+                            <td>采购平台</td>
+                        </tr>
+                        <tr>
+                            <td>查找手机</td>
+                            <td>以旧换新</td>
+                            <td>预约维修</td>
+                            <td>兴趣部落</td>
+                            <td>供应商协同平台</td>
+                        </tr>
+                        <tr>
+                            <td>常见问题</td>
+                            <td>保障服务</td>
+                            <td>维修配件价格</td>
+                            <td></td>
+                            <td>开放平台</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>服务政策</td>
+                            <td></td>
+                            <td>廉政合规</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>安全公告</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="foot-r">
+                    <p><span class="iconfont icon-zaixiankefu"></span>在线客服</p>
+                    <p><span class="iconfont icon-dianhua"></span>全国客服服务热线 7*24小时</p>
+                    <h2>400-6789688</h2>
+                    <p><span class="iconfont icon-zaixiankefu"></span>NEX专属服务热线 7*24小时</p>
+                    <h2>400-679-9688</h2>
+                    <!-- <p><span class="iconfont icon-zaixiankefu"></span>在线客服</p> -->
+                    <p><span class="iconfont icon-shoucang"></span>关注vivo</p>
+                    <span class="iconfont icon-xinlang"></span>
+                    <span class="iconfont icon-weixin"></span>
+                    <span class="iconfont icon-zhifubao"></span>
+                    <span class="iconfont icon-ziyuanxhdpi"></span>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

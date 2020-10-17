@@ -1,0 +1,1651 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+      "dataList": [
+        {
+          "id": 119230,
+          "skuCode": "5655912",
+          "skuName": "vivo Y73s 5G版 8GB+128GB 银月",
+          "relaSpuId": 10005883,
+          "promotion": "新品上市：①预定享优先发货；②限时享12期免息；③vivo老用户咨询客服加赠XE900耳机；④晒单赢新品手机",
+          "brief": "约7.73mm轻薄外观|4800万后置影像系统|6.44英寸高清护眼屏|支持屏幕指纹解锁",
+          "salePrice": 1998.000,
+          "marketPrice": 1998.000,
+          "points": 1998,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437315978_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437315978_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437315978_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322016_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322016_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322016_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373082293_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373082293_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373082293_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322736_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322736_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322736_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 119227,
+          "skuCode": "5655911",
+          "skuName": "vivo Y73s 5G版 8GB+128GB 黑镜",
+          "relaSpuId": 10005883,
+          "promotion": "新品上市：①预定享优先发货；②限时享12期免息；③vivo老用户咨询客服加赠XE900耳机；④晒单赢新品手机",
+          "brief": "约7.73mm轻薄外观|4800万后置影像系统|6.44英寸高清护眼屏|支持屏幕指纹解锁",
+          "salePrice": 1998.000,
+          "marketPrice": 1998.000,
+          "points": 1998,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437232443_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437232443_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437232443_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437246845_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437246845_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437246845_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373068277_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373068277_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373068277_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437254266_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437254266_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437254266_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118557,
+          "skuCode": "5655834",
+          "skuName": "iQOO 5 Pro 5G版 8GB+256GB 赛道版",
+          "relaSpuId": 10005651,
+          "promotion": "现货开售享：①12期免息；②赠XE710 Type-C耳机；③高等级会员加赠半年延保",
+          "brief": "BMW定制，高通骁龙865，120W超快闪充，120Hz超视感曲面屏，全竞速核芯，带来职业级电竞体验。",
+          "salePrice": 4998.000,
+          "marketPrice": 4998.000,
+          "points": 4998,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339680_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339680_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339680_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339535_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339535_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339535_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339480_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339480_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339480_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339828_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339828_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339828_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118697,
+          "skuCode": "5655839",
+          "skuName": "iQOO 5 Pro 5G版 12GB+256GB 传奇版",
+          "relaSpuId": 10005651,
+          "promotion": "10月13日10:00:00开售享：①12期免息；②赠XE710 Type-C耳机；③高等级会员加赠半年延保",
+          "brief": "BMW定制，高通骁龙865，120W超快闪充，120Hz超视感曲面屏，全竞速核芯，带来职业级电竞体验。",
+          "salePrice": 5498.000,
+          "marketPrice": 5498.000,
+          "points": 5498,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351271_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351271_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351271_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351072_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351072_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351072_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351169_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351169_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351169_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351845_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351845_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351845_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118699,
+          "skuCode": "5655849",
+          "skuName": "iQOO 5 5G版 8GB+128GB 星溯 ",
+          "relaSpuId": 10005648,
+          "promotion": "赠90元组合配件券",
+          "brief": "120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+          "salePrice": 3968,
+          "marketPrice": 3998.000,
+          "points": 3998,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459923_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459923_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459923_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459658_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459658_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459658_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459440_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459440_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459440_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459786_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459786_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459786_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118704,
+          "skuCode": "5655857",
+          "skuName": "iQOO 5 5G版 12GB+128GB 皓影",
+          "relaSpuId": 10005648,
+          "promotion": "赠90元组合配件券",
+          "brief": "120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+          "salePrice": 4268,
+          "marketPrice": 4298.000,
+          "points": 4298,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027506731_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027506731_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027506731_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027509115_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027509115_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027509115_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027503204_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027503204_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027503204_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027504509_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027504509_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027504509_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118728,
+          "skuCode": "5655851",
+          "skuName": "iQOO 5 5G版 12GB+256GB 皓影",
+          "relaSpuId": 10005648,
+          "promotion": "赠90元组合配件券",
+          "brief": "120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+          "salePrice": 4568,
+          "marketPrice": 4598.000,
+          "points": 4598,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893955_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893955_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893955_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893861_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893861_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893861_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893883_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893883_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893883_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112894165_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112894165_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112894165_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118481,
+          "skuCode": "5655766",
+          "skuName": "iQOO U1 全网通版 8GB+128GB 晴霜白",
+          "relaSpuId": 10005601,
+          "promotion": "①高等级会员加赠半年延保；②赠90元组合配件券",
+          "brief": "高通骁龙 720G；闪存+快速读取；4500mAh大电池,18W闪充超强续航",
+          "salePrice": 1598.000,
+          "marketPrice": 1598.000,
+          "points": 1598,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303982_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303982_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303982_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693302860_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693302860_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693302860_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303066_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303066_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303066_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693304426_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693304426_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693304426_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245378553371_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118482,
+          "skuCode": "5655765",
+          "skuName": "iQOO U1 全网通版 8GB+128GB 星耀蓝 ",
+          "relaSpuId": 10005601,
+          "promotion": "①高等级会员加赠半年延保；②赠90元组合配件券",
+          "brief": "高通骁龙 720G；闪存+快速读取；4500mAh大电池,18W闪充超强续航",
+          "salePrice": 1598.000,
+          "marketPrice": 1598.000,
+          "points": 1598,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309610_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309610_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309610_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309043_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309043_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309043_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309378_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309378_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309378_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309517_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309517_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309517_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245378553371_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118432,
+          "skuCode": "5655624",
+          "skuName": "iQOO Z1x 5G版 6GB+128GB 水漾白",
+          "relaSpuId": 10002891,
+          "promotion": "赠90元组合配件券",
+          "brief": "双模5G全网通，120Hz竞速屏，PC级液冷散热",
+          "salePrice": 1688,
+          "marketPrice": 1798.000,
+          "points": 1798,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842532_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842532_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842532_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282841983_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282841983_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282841983_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842215_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842215_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842215_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842826_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842826_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842826_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118427,
+          "skuCode": "5655619",
+          "skuName": "iQOO Z1x 5G版 8GB+128GB 海蔚蓝",
+          "relaSpuId": 10002891,
+          "promotion": "赠90元组合配件券",
+          "brief": "双模5G全网通，120Hz竞速屏，PC级液冷散热",
+          "salePrice": 1978,
+          "marketPrice": 1998.000,
+          "points": 1998,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742138_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742138_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742138_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741344_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741344_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741344_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741885_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741885_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741885_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742139_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742139_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742139_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118431,
+          "skuCode": "5655626",
+          "skuName": "iQOO Z1x 5G版 8GB+256GB 锐酷黑",
+          "relaSpuId": 10002891,
+          "promotion": "赠90元组合配件券",
+          "brief": "双模5G全网通，120Hz竞速屏，PC级液冷散热",
+          "salePrice": 2288,
+          "marketPrice": 2298.000,
+          "points": 2298,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816396_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816396_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816396_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282815863_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282815863_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282815863_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816069_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816069_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816069_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282817356_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282817356_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282817356_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        }
+      ],
+      "dataList1": [
+        {
+          "id": 119230,
+          "skuCode": "5655912",
+          "skuName": "vivo Y73s 5G版 8GB+128GB 银月",
+          "relaSpuId": 10005883,
+          "promotion": "新品上市：①预定享优先发货；②限时享12期免息；③vivo老用户咨询客服加赠XE900耳机；④晒单赢新品手机",
+          "brief": "约7.73mm轻薄外观|4800万后置影像系统|6.44英寸高清护眼屏|支持屏幕指纹解锁",
+          "salePrice": 1998.000,
+          "marketPrice": 1998.000,
+          "points": 1998,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437315978_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437315978_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437315978_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322016_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322016_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322016_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373082293_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373082293_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373082293_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322736_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322736_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322736_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 119227,
+          "skuCode": "5655911",
+          "skuName": "vivo Y73s 5G版 8GB+128GB 黑镜",
+          "relaSpuId": 10005883,
+          "promotion": "新品上市：①预定享优先发货；②限时享12期免息；③vivo老用户咨询客服加赠XE900耳机；④晒单赢新品手机",
+          "brief": "约7.73mm轻薄外观|4800万后置影像系统|6.44英寸高清护眼屏|支持屏幕指纹解锁",
+          "salePrice": 1998.000,
+          "marketPrice": 1998.000,
+          "points": 1998,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437232443_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437232443_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437232443_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437246845_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437246845_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437246845_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373068277_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373068277_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373068277_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437254266_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437254266_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437254266_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118557,
+          "skuCode": "5655834",
+          "skuName": "iQOO 5 Pro 5G版 8GB+256GB 赛道版",
+          "relaSpuId": 10005651,
+          "promotion": "现货开售享：①12期免息；②赠XE710 Type-C耳机；③高等级会员加赠半年延保",
+          "brief": "BMW定制，高通骁龙865，120W超快闪充，120Hz超视感曲面屏，全竞速核芯，带来职业级电竞体验。",
+          "salePrice": 4998.000,
+          "marketPrice": 4998.000,
+          "points": 4998,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339680_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339680_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339680_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339535_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339535_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339535_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339480_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339480_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339480_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339828_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339828_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339828_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118697,
+          "skuCode": "5655839",
+          "skuName": "iQOO 5 Pro 5G版 12GB+256GB 传奇版",
+          "relaSpuId": 10005651,
+          "promotion": "10月13日10:00:00开售享：①12期免息；②赠XE710 Type-C耳机；③高等级会员加赠半年延保",
+          "brief": "BMW定制，高通骁龙865，120W超快闪充，120Hz超视感曲面屏，全竞速核芯，带来职业级电竞体验。",
+          "salePrice": 5498.000,
+          "marketPrice": 5498.000,
+          "points": 5498,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351271_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351271_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351271_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351072_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351072_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351072_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351169_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351169_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351169_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351845_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351845_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351845_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118699,
+          "skuCode": "5655849",
+          "skuName": "iQOO 5 5G版 8GB+128GB 星溯 ",
+          "relaSpuId": 10005648,
+          "promotion": "赠90元组合配件券",
+          "brief": "120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+          "salePrice": 3968,
+          "marketPrice": 3998.000,
+          "points": 3998,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459923_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459923_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459923_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459658_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459658_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459658_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459440_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459440_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459440_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459786_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459786_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459786_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118704,
+          "skuCode": "5655857",
+          "skuName": "iQOO 5 5G版 12GB+128GB 皓影",
+          "relaSpuId": 10005648,
+          "promotion": "赠90元组合配件券",
+          "brief": "120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+          "salePrice": 4268,
+          "marketPrice": 4298.000,
+          "points": 4298,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027506731_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027506731_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027506731_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027509115_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027509115_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027509115_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027503204_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027503204_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027503204_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027504509_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027504509_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027504509_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118728,
+          "skuCode": "5655851",
+          "skuName": "iQOO 5 5G版 12GB+256GB 皓影",
+          "relaSpuId": 10005648,
+          "promotion": "赠90元组合配件券",
+          "brief": "120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+          "salePrice": 4568,
+          "marketPrice": 4598.000,
+          "points": 4598,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893955_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893955_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893955_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893861_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893861_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893861_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893883_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893883_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893883_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112894165_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112894165_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112894165_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118481,
+          "skuCode": "5655766",
+          "skuName": "iQOO U1 全网通版 8GB+128GB 晴霜白",
+          "relaSpuId": 10005601,
+          "promotion": "①高等级会员加赠半年延保；②赠90元组合配件券",
+          "brief": "高通骁龙 720G；闪存+快速读取；4500mAh大电池,18W闪充超强续航",
+          "salePrice": 1598.000,
+          "marketPrice": 1598.000,
+          "points": 1598,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303982_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303982_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303982_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693302860_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693302860_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693302860_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303066_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303066_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303066_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693304426_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693304426_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693304426_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245378553371_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118482,
+          "skuCode": "5655765",
+          "skuName": "iQOO U1 全网通版 8GB+128GB 星耀蓝 ",
+          "relaSpuId": 10005601,
+          "promotion": "①高等级会员加赠半年延保；②赠90元组合配件券",
+          "brief": "高通骁龙 720G；闪存+快速读取；4500mAh大电池,18W闪充超强续航",
+          "salePrice": 1598.000,
+          "marketPrice": 1598.000,
+          "points": 1598,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309610_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309610_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309610_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309043_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309043_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309043_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309378_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309378_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309378_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309517_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309517_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309517_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245378553371_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118432,
+          "skuCode": "5655624",
+          "skuName": "iQOO Z1x 5G版 6GB+128GB 水漾白",
+          "relaSpuId": 10002891,
+          "promotion": "赠90元组合配件券",
+          "brief": "双模5G全网通，120Hz竞速屏，PC级液冷散热",
+          "salePrice": 1688,
+          "marketPrice": 1798.000,
+          "points": 1798,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842532_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842532_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842532_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282841983_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282841983_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282841983_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842215_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842215_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842215_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842826_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842826_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842826_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118427,
+          "skuCode": "5655619",
+          "skuName": "iQOO Z1x 5G版 8GB+128GB 海蔚蓝",
+          "relaSpuId": 10002891,
+          "promotion": "赠90元组合配件券",
+          "brief": "双模5G全网通，120Hz竞速屏，PC级液冷散热",
+          "salePrice": 1978,
+          "marketPrice": 1998.000,
+          "points": 1998,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742138_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742138_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742138_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741344_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741344_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741344_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741885_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741885_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741885_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742139_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742139_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742139_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118431,
+          "skuCode": "5655626",
+          "skuName": "iQOO Z1x 5G版 8GB+256GB 锐酷黑",
+          "relaSpuId": 10002891,
+          "promotion": "赠90元组合配件券",
+          "brief": "双模5G全网通，120Hz竞速屏，PC级液冷散热",
+          "salePrice": 2288,
+          "marketPrice": 2298.000,
+          "points": 2298,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816396_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816396_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816396_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282815863_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282815863_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282815863_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816069_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816069_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816069_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282817356_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282817356_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282817356_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        }
+      ],
+      "dataList2": [
+        {
+          "id": 119230,
+          "skuCode": "5655912",
+          "skuName": "vivo Y73s 5G版 8GB+128GB 银月",
+          "relaSpuId": 10005883,
+          "promotion": "新品上市：①预定享优先发货；②限时享12期免息；③vivo老用户咨询客服加赠XE900耳机；④晒单赢新品手机",
+          "brief": "约7.73mm轻薄外观|4800万后置影像系统|6.44英寸高清护眼屏|支持屏幕指纹解锁",
+          "salePrice": 1998.000,
+          "marketPrice": 1998.000,
+          "points": 1998,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437315978_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437315978_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437315978_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322016_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322016_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322016_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373082293_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373082293_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373082293_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322736_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322736_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437322736_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 119227,
+          "skuCode": "5655911",
+          "skuName": "vivo Y73s 5G版 8GB+128GB 黑镜",
+          "relaSpuId": 10005883,
+          "promotion": "新品上市：①预定享优先发货；②限时享12期免息；③vivo老用户咨询客服加赠XE900耳机；④晒单赢新品手机",
+          "brief": "约7.73mm轻薄外观|4800万后置影像系统|6.44英寸高清护眼屏|支持屏幕指纹解锁",
+          "salePrice": 1998.000,
+          "marketPrice": 1998.000,
+          "points": 1998,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437232443_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437232443_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437232443_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437246845_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437246845_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437246845_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373068277_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373068277_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601373068277_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437254266_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437254266_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/10005883_1601437254266_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118557,
+          "skuCode": "5655834",
+          "skuName": "iQOO 5 Pro 5G版 8GB+256GB 赛道版",
+          "relaSpuId": 10005651,
+          "promotion": "现货开售享：①12期免息；②赠XE710 Type-C耳机；③高等级会员加赠半年延保",
+          "brief": "BMW定制，高通骁龙865，120W超快闪充，120Hz超视感曲面屏，全竞速核芯，带来职业级电竞体验。",
+          "salePrice": 4998.000,
+          "marketPrice": 4998.000,
+          "points": 4998,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339680_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339680_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339680_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339535_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339535_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339535_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339480_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339480_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339480_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339828_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339828_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654339828_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118697,
+          "skuCode": "5655839",
+          "skuName": "iQOO 5 Pro 5G版 12GB+256GB 传奇版",
+          "relaSpuId": 10005651,
+          "promotion": "10月13日10:00:00开售享：①12期免息；②赠XE710 Type-C耳机；③高等级会员加赠半年延保",
+          "brief": "BMW定制，高通骁龙865，120W超快闪充，120Hz超视感曲面屏，全竞速核芯，带来职业级电竞体验。",
+          "salePrice": 5498.000,
+          "marketPrice": 5498.000,
+          "points": 5498,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351271_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351271_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351271_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351072_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351072_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351072_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351169_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351169_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351169_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351845_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351845_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/51/10005651_1597654351845_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245379698434_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118699,
+          "skuCode": "5655849",
+          "skuName": "iQOO 5 5G版 8GB+128GB 星溯 ",
+          "relaSpuId": 10005648,
+          "promotion": "赠90元组合配件券",
+          "brief": "120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+          "salePrice": 3968,
+          "marketPrice": 3998.000,
+          "points": 3998,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459923_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459923_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459923_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459658_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459658_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459658_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459440_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459440_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459440_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459786_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459786_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459786_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118704,
+          "skuCode": "5655857",
+          "skuName": "iQOO 5 5G版 12GB+128GB 皓影",
+          "relaSpuId": 10005648,
+          "promotion": "赠90元组合配件券",
+          "brief": "120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+          "salePrice": 4268,
+          "marketPrice": 4298.000,
+          "points": 4298,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027506731_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027506731_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027506731_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027509115_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027509115_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027509115_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027503204_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027503204_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027503204_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027504509_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027504509_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027504509_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118728,
+          "skuCode": "5655851",
+          "skuName": "iQOO 5 5G版 12GB+256GB 皓影",
+          "relaSpuId": 10005648,
+          "promotion": "赠90元组合配件券",
+          "brief": "120Hz 超视感柔性屏，骁龙865+LPDDR5+UFS3.1超劲核芯，KPL官方比赛用机，超大底变焦三摄。",
+          "salePrice": 4568,
+          "marketPrice": 4598.000,
+          "points": 4598,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893955_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893955_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893955_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893861_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893861_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893861_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893883_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893883_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112893883_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112894165_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112894165_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597112894165_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118481,
+          "skuCode": "5655766",
+          "skuName": "iQOO U1 全网通版 8GB+128GB 晴霜白",
+          "relaSpuId": 10005601,
+          "promotion": "①高等级会员加赠半年延保；②赠90元组合配件券",
+          "brief": "高通骁龙 720G；闪存+快速读取；4500mAh大电池,18W闪充超强续航",
+          "salePrice": 1598.000,
+          "marketPrice": 1598.000,
+          "points": 1598,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303982_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303982_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303982_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693302860_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693302860_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693302860_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303066_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303066_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693303066_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693304426_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693304426_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693304426_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245378553371_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118482,
+          "skuCode": "5655765",
+          "skuName": "iQOO U1 全网通版 8GB+128GB 星耀蓝 ",
+          "relaSpuId": 10005601,
+          "promotion": "①高等级会员加赠半年延保；②赠90元组合配件券",
+          "brief": "高通骁龙 720G；闪存+快速读取；4500mAh大电池,18W闪充超强续航",
+          "salePrice": 1598.000,
+          "marketPrice": 1598.000,
+          "points": 1598,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309610_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309610_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309610_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309043_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309043_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309043_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309378_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309378_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309378_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309517_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309517_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/01/10005601_1594693309517_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245378553371_100x100.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118432,
+          "skuCode": "5655624",
+          "skuName": "iQOO Z1x 5G版 6GB+128GB 水漾白",
+          "relaSpuId": 10002891,
+          "promotion": "赠90元组合配件券",
+          "brief": "双模5G全网通，120Hz竞速屏，PC级液冷散热",
+          "salePrice": 1688,
+          "marketPrice": 1798.000,
+          "points": 1798,
+          "isDefault": 1,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842532_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842532_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842532_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282841983_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282841983_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282841983_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842215_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842215_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842215_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842826_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842826_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282842826_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118427,
+          "skuCode": "5655619",
+          "skuName": "iQOO Z1x 5G版 8GB+128GB 海蔚蓝",
+          "relaSpuId": 10002891,
+          "promotion": "赠90元组合配件券",
+          "brief": "双模5G全网通，120Hz竞速屏，PC级液冷散热",
+          "salePrice": 1978,
+          "marketPrice": 1998.000,
+          "points": 1998,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742138_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742138_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742138_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741344_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741344_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741344_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741885_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741885_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282741885_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742139_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742139_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282742139_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        },
+        {
+          "id": 118431,
+          "skuCode": "5655626",
+          "skuName": "iQOO Z1x 5G版 8GB+256GB 锐酷黑",
+          "relaSpuId": 10002891,
+          "promotion": "赠90元组合配件券",
+          "brief": "双模5G全网通，120Hz竞速屏，PC级液冷散热",
+          "salePrice": 2288,
+          "marketPrice": 2298.000,
+          "points": 2298,
+          "isDefault": 0,
+          "disabled": 1,
+          "recommendSkuUrl": null,
+          "images": [
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816396_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816396_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816396_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282815863_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282815863_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282815863_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816069_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816069_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282816069_750x750.png"
+            },
+            {
+              "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282817356_1080x1080.png",
+              "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282817356_250x250.png",
+              "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/91/10002891_1594282817356_750x750.png"
+            }
+          ],
+          "corner": {
+            "thumbnailPic": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190704/039086c21f3e5bb79af675ef8f0fdce9.png",
+            "smallPic": null,
+            "bigPic": null
+          }
+        }
+      ],
+      "pageVo": {
+        "pageNum": 1,
+        "pageSize": 12,
+        "startRow": 1,
+        "endRow": 1,
+        "total": 52,
+        "pages": 0,
+        "reasonable": null,
+        "pageSizeZero": null
+      },
+      "categoryInfo": {
+        "crumbNav": [
+          {
+            "id": 1,
+            "name": "智能手机",
+            "parentId": 0,
+            "level": 0,
+            "cmmdyTypeId": 1,
+            "image": {
+              "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530572011hd_120x120.jpg",
+              "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530572011hd_480x480.jpg",
+              "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530562353hd_156x50.jpg",
+              "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530562353hd_312x100.jpg"
+            }
+          }
+        ],
+        "firstNav": [
+          {
+            "id": 1,
+            "name": "智能手机",
+            "parentId": 0,
+            "level": 0,
+            "cmmdyTypeId": 1,
+            "image": {
+              "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530572011hd_120x120.jpg",
+              "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530572011hd_480x480.jpg",
+              "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530562353hd_156x50.jpg",
+              "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530562353hd_312x100.jpg"
+            }
+          },
+          {
+            "id": 2,
+            "name": "配件产品",
+            "parentId": 0,
+            "level": 0,
+            "cmmdyTypeId": 2,
+            "image": {
+              "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530529802476hd_120x120.jpg",
+              "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530529802476hd_480x480.jpg",
+              "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530529814022hd_156x50.png",
+              "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530529814022hd_312x100.png"
+            }
+          },
+          {
+            "id": 3,
+            "name": "服务",
+            "parentId": 0,
+            "level": 0,
+            "cmmdyTypeId": 3,
+            "image": {
+              "wapSmallPic": null,
+              "wapBigPic": null,
+              "pcSmallPic": null,
+              "pcBigPic": null
+            }
+          }
+        ],
+        "secondNav": [
+          {
+            "id": 527,
+            "name": "iQOO",
+            "parentId": 1,
+            "level": 1,
+            "cmmdyTypeId": 1,
+            "image": {
+              "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1600223212425_120x120.png",
+              "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1600223212425_480x480.png",
+              "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1600223212429_156x50.png",
+              "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1600223212429_312x100.png"
+            }
+          },
+          {
+            "id": 338,
+            "name": "NEX系列",
+            "parentId": 1,
+            "level": 1,
+            "cmmdyTypeId": 1,
+            "image": {
+              "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1579070840957_120x120.jpg",
+              "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1579070840957_480x480.jpg",
+              "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1579070840959_156x50.jpg",
+              "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1579070840959_312x100.jpg"
+            }
+          },
+          {
+            "id": 57,
+            "name": "X系列",
+            "parentId": 1,
+            "level": 1,
+            "cmmdyTypeId": 1,
+            "image": {
+              "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1594286900780_120x120.png",
+              "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1594286900780_480x480.png",
+              "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1592819547603_156x50.png",
+              "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1592819547603_312x100.png"
+            }
+          },
+          {
+            "id": 531,
+            "name": "S系列",
+            "parentId": 1,
+            "level": 1,
+            "cmmdyTypeId": 1,
+            "image": {
+              "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1596507604957_120x120.png",
+              "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1596507604957_480x480.png",
+              "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1596507604960_156x50.png",
+              "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1596507604960_312x100.png"
+            }
+          },
+          {
+            "id": 7,
+            "name": "Y系列",
+            "parentId": 1,
+            "level": 1,
+            "cmmdyTypeId": 1,
+            "image": {
+              "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1602243095956_120x120.png",
+              "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1602243095956_480x480.png",
+              "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1602243095959_156x50.png",
+              "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1602243095959_312x100.png"
+            }
+          },
+          {
+            "id": 335,
+            "name": "Z系列",
+            "parentId": 1,
+            "level": 1,
+            "cmmdyTypeId": 1,
+            "image": {
+              "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1579072186344_120x120.jpg",
+              "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1579072186344_480x480.jpg",
+              "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1582771620941_156x50.jpg",
+              "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1582771620941_312x100.jpg"
+            }
+          },
+          {
+            "id": 525,
+            "name": "U系列",
+            "parentId": 1,
+            "level": 1,
+            "cmmdyTypeId": 1,
+            "image": {
+              "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1579072389909_120x120.jpg",
+              "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1579072389909_480x480.jpg",
+              "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1579072389914_156x50.jpg",
+              "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/category/1579072389914_312x100.jpg"
+            }
+          }
+        ],
+        "firstId": 1,
+        "secondId": null
+      }
+    }
+  }

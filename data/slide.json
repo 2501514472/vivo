@@ -1,0 +1,150 @@
+{
+    "msg": "成功",
+    "code": 0,
+    "data": {
+      "actSkuInfoVos": [
+        {
+          "spuId": 10002425,
+          "skuId": 104131,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/25/10002425_1589856402284_750x750.png",
+          "skuName": "iQOO 2A Type-C 手游数据线 黄色",
+          "actPrice": 39.000,
+          "marketPrice": 59.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/d028e9b755f541a0fd37ebe63a28db68.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "直降20元"
+        },
+        {
+          "spuId": 10005845,
+          "skuId": 119070,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/29/10005629_1595916355993_750x750.png",
+          "skuName": "vivo Y51s 5G版 6GB+128GB 雪羽白",
+          "actPrice": 1698.000,
+          "marketPrice": 1798.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190614/d64556c88a9ef239e2779a320ec1102c.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "V抢购订单享12期免息，加赠XE710耳机；不参与老客有礼活动"
+        },
+        {
+          "spuId": 10001303,
+          "skuId": 101660,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/03/10001303_1588754682402_750x750.png",
+          "skuName": "vivo 2A USB数据线",
+          "actPrice": 9.900,
+          "marketPrice": 19.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/af66e7f1b94841b9ad1afde83e679a50.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "9.9元秒杀"
+        },
+        {
+          "spuId": 10000538,
+          "skuId": 100683,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/38/10000538_1591686802882_750x750.png",
+          "skuName": "vivo 44W超快闪充充电器",
+          "actPrice": 89.000,
+          "marketPrice": 119.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/d028e9b755f541a0fd37ebe63a28db68.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "直降30元"
+        },
+        {
+          "spuId": 10002170,
+          "skuId": 103559,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/70/10002170_1585378156682_750x750.png",
+          "skuName": "iQOO 3 原装保护膜",
+          "actPrice": 14.000,
+          "marketPrice": 29.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190709/752f8c1ebafaea273f312dd673847c5e.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "5折秒杀"
+        },
+        {
+          "spuId": 10002434,
+          "skuId": 104141,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/34/10002434_1587634827646_750x750.png",
+          "skuName": "iQOO Neo3 硅胶保护壳 元气蓝",
+          "actPrice": 29.000,
+          "marketPrice": 49.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/d028e9b755f541a0fd37ebe63a28db68.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "直降20元"
+        },
+        {
+          "spuId": 10002890,
+          "skuId": 118450,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/90/10002890_1594175736366_750x750.png",
+          "skuName": "X50 Pro/X50 Pro+ 3D曲面高透保护膜",
+          "actPrice": 24.000,
+          "marketPrice": 49.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190709/752f8c1ebafaea273f312dd673847c5e.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "5折秒杀"
+        },
+        {
+          "spuId": 10005690,
+          "skuId": 118653,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/90/10005690_1596613664762_750x750.png",
+          "skuName": "vivo S7立体格纹保护壳",
+          "actPrice": 29.000,
+          "marketPrice": 39.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/d028e9b755f541a0fd37ebe63a28db68.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "直降10元"
+        },
+        {
+          "spuId": 10001282,
+          "skuId": 101621,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/82/10001282_1588832410986_750x750.png",
+          "skuName": "Z5x 原装保护膜",
+          "actPrice": 14.000,
+          "marketPrice": 29.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190709/752f8c1ebafaea273f312dd673847c5e.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "5折秒杀"
+        },
+        {
+          "spuId": 10000376,
+          "skuId": 100468,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/76/10000376_1588765360638_750x750.png",
+          "skuName": "Teethcare 声波电动牙刷",
+          "actPrice": 169.000,
+          "marketPrice": 199.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/d028e9b755f541a0fd37ebe63a28db68.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "直降30元"
+        },
+        {
+          "spuId": 10002123,
+          "skuId": 103394,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/23/10002123_1584090237704_750x750.png",
+          "skuName": "吉米有品 S1 Pro 智能保温杯 黑色",
+          "actPrice": 109.000,
+          "marketPrice": 159.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190706/29729f4f4bfed84fc07a8f0f0c0fea81.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "直降50元"
+        },
+        {
+          "spuId": 10005725,
+          "skuId": 118745,
+          "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/25/10005725_1597225090754_750x750.png",
+          "skuName": "ROCK 喷雾清洁棒 ROT0772 红\n",
+          "actPrice": 24.000,
+          "marketPrice": 29.000,
+          "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/d028e9b755f541a0fd37ebe63a28db68.png_w530-h530.png",
+          "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+          "promotion": "直降5元"
+        }
+      ],
+      "timeVo": {
+        "currentTime": "1601884966322",
+        "startTime": "1601863200000",
+        "endTime": "1601899199000",
+        "nexStartTime": "20:00"
+      },
+      "tapUrlVo": {
+        "currentTapUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1135",
+        "nextTapUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1136"
+      }
+    }
+  }

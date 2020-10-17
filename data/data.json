@@ -1,0 +1,117 @@
+{
+  "hot": [
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/25/10002225_1587193557457_750x750.png.webp",
+      "name":"IQOO NEO3 5G版",
+      "desc":"144Hz高刷竞速屏/高通骁龙865",
+      "price":"￥2998.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/44/10002544_1590047377362_750x750.png.webp",
+      "name":"vivo X50 5G版",
+      "desc":"超感光夜摄|超稳运动拍摄",
+      "price":"3298.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10005648_1597027459923_750x750.png.webp",
+      "name":"iQOO 5 5G版",
+      "desc":"120Hz 超视感柔性屏",
+      "price":"￥3998.00"
+    }
+  ],
+  "phone": [
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/20200819/2020081910132570315_original.jpg.webp",
+      "name":"",
+      "desc":"",
+      "price":""
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1585706417885_750x750.png.webp",
+      "name":"iQOO 3 5G版",
+      "desc":"55W超快闪充",
+      "price":"￥3998.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/03/10002503_1589799951253_750x750.png.webp",
+      "name":"iQOO Z1 5G版",
+      "desc":"天玑1000Plus旗舰芯片",
+      "price":"￥2298.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/11/10002511_1590233374301_750x750.png.webp",
+      "name":"vivo Y70s 5G版",
+      "desc":"4500mAh+双引擎闪充",
+      "price":"￥1998.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/12/10001812_1576462303444_750x750.png.webp",
+      "name":"vivo X30 5G版",
+      "desc":"双模5G全网通/20倍变焦",
+      "price":"￥2998.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/39/10001939_1583745547756_750x750.png.webp",
+      "name":"NEX 3S 5G版",
+      "desc":"8GB+256GB/高通骁龙865",
+      "price":"￥4998.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/16/10001616_1572831712657_750x750.png.webp",
+      "name":"vivo Y5s",
+      "desc":"55000mAh续航",
+      "price":"￥1398.00"
+    }
+  ],
+  "part": [
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/13/10005713_1600152855785_750x750.png.webp",
+      "name":"vivo WATCH",
+      "desc":"24小时健康监测",
+      "price":"￥1299.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10001648_1599704174868_750x750.png.webp",
+      "name":"vivo 18W 10000mAh",
+      "desc":"双向快充移动电源",
+      "price":"￥99.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/73/10002173_1589354060038_750x750.png.webp",
+      "name":"vivo 缤纷耳机",
+      "desc":"专业调音 三频均衡",
+      "price":"￥49.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10002422_1587537238055_750x750.png.webp",
+      "name":"iQOO 影音耳机",
+      "desc":"K歌级麦克风",
+      "price":"￥129.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/72/10002872_1591952135411_750x750.png.webp",
+      "name":"iQOO 闪电游戏手柄",
+      "desc":"即连即玩｜支持海量游戏",
+      "price":"￥199.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/30/10002530_1589791356105_750x750.png.webp",
+      "name":"vivo TWS Neo 真无线耳机",
+      "desc":"高清音质|游戏低延迟",
+      "price":"￥499.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/25/10002425_1589856402284_750x750.png.webp",
+      "name":"闪充手游数据线",
+      "desc":"官方品质｜手游专属设计",
+      "price":"￥59.00"
+    },
+    {
+      "img":"https://shopstatic.vivo.com.cn/vivoshop/commodity/38/10000538_1591686802882_750x750.png.webp",
+      "name":"vivo 44W闪充充电器",
+      "desc":"六重保护系统",
+      "price":"￥119.00"
+    }
+  ]
+  
+}

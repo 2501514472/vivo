@@ -1,0 +1,295 @@
+{
+  "topNav": [
+    {
+      "title": "NEX系列",
+      "childs": [
+        {
+          "id": "1",
+          "span": "",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200925/9542631a911269daceabd8e88902087a.png",
+          "a": "NEX 3S",
+          "i": "1799元起"
+        },
+        {
+          "id": "2",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200925/202f17a330a7896a57e4a5db32fbf88c.png",
+          "a": "NEX 3&NEX 3 5G",
+          "i": "1299元起"
+        },
+        {
+          "id": "3",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200925/87c426ae275a280052da0b8fee592ce1.png",
+          "a": "NEX双屏版",
+          "i": "2599元"
+        },
+        {
+          "id": "4",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20190315/826f33355eb36456c1cf48ef952b2603.png",
+          "a": "NEX旗舰版",
+          "i": "1799元起"
+        },
+        {
+          "id": "5",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20190315/d89018a178a5c9c511aece362ff85e8e.png",
+          "a": "NEX&NEX屏幕指纹版",
+          "i": "1799元起"
+        }
+      ]
+    },
+    {
+      "title": "X系列",
+      "childs": [
+        {
+          "id": "7",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200704/9e58f7ed9ff190b5aa7ab1c260465aa4.png",
+          "a": "X50 Pro+",
+          "i": "2499元起"
+        },
+        {
+          "id": "8",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200601/0ee86b896e2597201dbd04c6de3cf2dc.png",
+          "a": "X50 Pro",
+          "i": "1999元起"
+        },
+        {
+          "id": "9",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200601/11b6490d31996a9ed7386747d11ee951.png",
+          "a": "X50",
+          "i": "549元起"
+        },
+        {
+          "id": "10",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200316/49d4b2ceb28bb84bffcb318ab20b6ab1.png",
+          "a": "X30 Pro",
+          "i": "1399元"
+        },
+        {
+          "id": "11",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200331/8d2b166140578773896cf177285ef0b9.png",
+          "a": "X30",
+          "i": "999元起"
+        }
+      ]
+    },
+    {
+      "title": "S系列",
+      "childs": [
+        {
+          "id": "13",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200728/2752e3c6c6a4bd35e8e6c75a1ff690de.png",
+          "a": "S7",
+          "i": "6999元"
+        },
+        {
+          "id": "14",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200426/7564f1f23fb4a3ffe090d1a75e414012.png",
+          "a": "S6",
+          "i": "2099元"
+        },
+        {
+          "id": "15",
+          "span": "热卖",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20191112/b010f4d889b1f50fe4cb7fc929e761f7.png",
+          "a": "S5",
+          "i": "769元"
+        },
+        {
+          "id": "16",
+          "span": "热卖",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20190620/7d6cdbbe319b5db91cd8fb8c1f891c2f.png",
+          "a": "S1 Pro",
+          "i": "1999元"
+        },
+        {
+          "id": "17",
+          "span": "热卖",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20190802/aac2171c29d31bfa3184ca6d8dacb42c.png",
+          "a": "S1",
+          "i": "2999元"
+        }
+      ]
+    },
+    {
+      "title": "Y系列",
+      "childs": [
+        {
+          "id": "19",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20201010/13604657b02bd548be702436d921340e.png",
+          "a": "Y73s",
+          "i": "3999元"
+        },
+        {
+          "id": "20",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200724/4edb9c67b39f8265e78a9c4bdaf5c1ca.png",
+          "a": "Y51s",
+          "i": "3599元"
+        },
+        {
+          "id": "21",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200721/2f4d8014de226ab3d027b9ab964c2512.png",
+          "a": "Y70s",
+          "i": "4999元"
+        },
+        {
+          "id": "22",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200424/2aae4fffa80a2cfd47d431d285e6f636.png",
+          "a": "Y50",
+          "i": "2899元起"
+        },
+        {
+          "id": "23",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20191128/58d2d25617f2b25ec24f157d8018db2f.png",
+          "a": "Y9s",
+          "i": "2999元"
+        }
+      ]
+    },
+    {
+      "title": "Z系列",
+      "childs": [
+        {
+          "id": "25",
+          "span": "热卖",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200303/96cca446d4f0f48d29f349c7926b596a.png",
+          "a": "Z6",
+          "i": "2199元"
+        },
+        {
+          "id": "26",
+          "span": "热卖",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20191217/dd7281a2107a20acdc44f74b51e16e30.png",
+          "a": "Z5",
+          "i": "1899元"
+        },
+        {
+          "id": "27",
+          "span": "热卖",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200414/69606ed82c6450ae7912f279ec83c6c8.png",
+          "a": "Z5x 712版",
+          "i": "699元"
+        },
+        {
+          "id": "28",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20190719/e3e14263e85aafa17e3ed3be4452e14c.png",
+          "a": "Z5x",
+          "i": "1799元"
+        },
+        {
+          "id": "29",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20191118/971ba316aa4dba03d6a302a595444995.png",
+          "a": "Z5i",
+          "i": "1699元"
+        }
+      ]
+    },
+    {
+      "title": "U系列",
+      "childs": [
+        {
+          "id": "31",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20191016/0f8ee5b3edefbe332822b2e02337a216.png",
+          "a": "U3",
+          "i": "999元"
+        },
+        {
+          "id": "32",
+          "span": "双频双核",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20190911/c17261d1c01e427794c8e3bd7558d490.png",
+          "a": "U3x",
+          "i": "169元"
+        },
+        {
+          "id": "33",
+          "span": "热卖",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20190315/5dc1d60eeada027208e3c60bd566156f.png",
+          "a": "U1",
+          "i": "99元"
+        }
+      ]
+    },
+    {
+      "title": "IQOO手机",
+      "childs": [
+        {
+          "id": "31",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200811/6c3827145896756c3b55db962145ae7c.png",
+          "a": "iQOO 5 Pro",
+          "i": "999元"
+        },
+        {
+          "id": "32",
+          "span": "双频双核",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200811/1cdbb003e9bdc30a968c1e7f683db0cc.png",
+          "a": "iQOO 5",
+          "i": "169元"
+        },
+        {
+          "id": "33",
+          "span": "热卖",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200707/e8a8b84c72b11d3d24e106ef6c1999a9.png",
+          "a": "iQOO Z1x",
+          "i": "99元"
+        },
+        {
+          "id": "34",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200715/5531e336e6b5db71f314f345a64cf882.png",
+          "a": "iQOO U1",
+          "i": "119元"
+        },
+        {
+          "id": "35",
+          "span": "大容量",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200731/cffb81c2c416d3828b61a1b4cf056814.png",
+          "a": "iQOO Neo3",
+          "i": "499元起"
+        }
+      ]
+    },
+    {
+      "title": "智能硬件",
+      "childs": [
+        {
+          "id": "37",
+          "span": "热卖",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200914/7461d78cec368bc864ed2c04b1204523.png",
+          "a": "vivo WATCH",
+          "i": "199元"
+        },
+        {
+          "id": "38",
+          "span": "新品",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20200601/a9255558d2894fbc640ae03d95a88e72.png",
+          "a": "vivo TWS Neo",
+          "i": "499元"
+        },
+        {
+          "id": "39",
+          "span": "热卖",
+          "img": "https://wwwstatic.vivo.com.cn/vivoportal/files/image/navi/20190905/383b09a6c7bfa053b4988b6e6d0fbfeb.png",
+          "a": "vivo TWS 1",
+          "i": "1199元"
+        }
+      ]
+    },
+    {
+      "title": "商城",
+      "childs": ""
+    },
+    {
+      "title": "服务",
+      "childs": ""
+    }
+  ]
+}

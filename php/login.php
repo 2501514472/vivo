@@ -1,0 +1,65 @@
+<?php
+    header('content-type:text/html;charset="utf-8"');
+
+    //定义一个统一的返回格式
+    $responseData = array("code" => 0, "message" => "");
+
+
+    // var_dump($_POST);
+    //将前端传输到后端的数据全部加载在页面上
+    $username = $_POST['username'];
+    $password = $_POST['password'];
+   
+    
+
+    //先给所有获取到的数据做一个简单的表单验证
+    if(!$username){
+        $responseData['code'] = 1;
+        $responseData["message"] = "用户名不能为空";
+        //将数据按统一数据返回格式返回
+        echo json_encode($responseData);
+        exit;
+    }
+
+    if(!$password){
+        $responseData['code'] = 2;
+        $responseData["message"] = "密码不能为空";
+        //将数据按统一数据返回格式返回
+        echo json_encode($responseData);
+        exit;
+    }
+    $link = mysql_connect("127.0.0.1", "root", "123456");
+
+    
+    if(!$link){
+        $responseData['code'] = 4;
+        $responseData["message"] = "服务器忙";
+       
+        echo json_encode($responseData);
+        exit;
+    }
+    mysql_set_charset("utf8");
+    mysql_select_db("vivo");
+    $str = $password;
+	$sql = "SELECT * FROM users WHERE username='{$username}'AND password='{$password}' ";
+
+	$res = mysql_query($sql);
+
+	$row = mysql_fetch_assoc($res);
+
+	if(!$row){
+		
+		
+			$responseData['code'] = 5;
+			$responseData['message'] = "用户名或密码错误";
+			echo json_encode($responseData);
+		
+	}else{
+		$responseData['code'] = 6;
+		$responseData['message'] = "登录成功";
+		echo json_encode($responseData);
+		exit;
+	}
+
+	mysql_close($link);
+?>
